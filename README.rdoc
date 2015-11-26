@@ -1,0 +1,5 @@
+This ruby script takes two subtitle files for a single movie 
+that both start at times zero and writes a new file 
+with the time shifted forward appropriately. 
+
+Uses regex and file i/o.
